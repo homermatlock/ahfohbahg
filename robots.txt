@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahyeipahg.readwrite.club/sitemap.xml
